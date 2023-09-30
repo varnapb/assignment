@@ -1,0 +1,62 @@
+.Navigation{
+    float: none;
+    margin-top: 40px;
+    margin-right: 50px;
+}
+.Navigation a{
+    text-decoration: none;
+    color: gray;
+    border: 1px solid white;
+    margin: 5px;
+    padding: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/*styling starts here*/
+h2{
+    
+    border: 2px solid black;
+    padding  :30px;
+    padding-left: 40%;
+}
+h1{
+    color: brown;
+   padding-left: 43%;
+
+}
+p{
+    
+    
+    font-family: 'Courier New', Courier, monospace;
+    padding-right: 8%;
+   /* border: 1px solid red;*/
+    margin-left: 45%
+    
+
+}
+.skill{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+ul{
+    padding-left: 10%;
+    size: 30px;
+   /* border: 1px solid red:*/
+    margin-right: 75%;
+
+}
+.Contact{
+    color: black;
+}
+.contact{
+    padding-left: 30%;
+}
+.Social media{
+    text-decoration: none;
+    color: gray;
+    border: 1px solid white;
+    margin: 5px;
+    padding: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
